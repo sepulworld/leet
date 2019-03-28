@@ -1,6 +1,8 @@
 import urlparse, urllib
 import hashlib
 
+"""https://leetcode.com/problems/encode-and-decode-tinyurl/submissions"""
+
 class Codec:
 
     def __init__(self):
